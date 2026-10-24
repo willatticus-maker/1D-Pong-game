@@ -2,9 +2,9 @@
 
 # **Photos**
 
-[Clock and Register](clock_and_register.jgp)
+[Clock and Register](Clock_and_register.jpg)
 
-[Final Build](Complete.jgp)
+[Final Build](completeproject.jpg)
 
 A one-dimensional version of Pong built using digital logic circuits, without a traditional CPU or software-based game engine.
 

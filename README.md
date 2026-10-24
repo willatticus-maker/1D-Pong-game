@@ -2,7 +2,7 @@
 
 # **Photos**
 
-![Clock and Register](Clock_and_register.jpg)
+![Clock and Register](Clock_and_register.jpeg)
 
 ![Final Build](completeproject.jpg)
 
